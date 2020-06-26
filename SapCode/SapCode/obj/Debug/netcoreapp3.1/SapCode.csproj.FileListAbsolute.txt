@@ -1,0 +1,11 @@
+C:\Users\Work\source\repos\SapCode\SapCode\obj\Debug\netcoreapp3.1\SapCode.csprojAssemblyReference.cache
+C:\Users\Work\source\repos\SapCode\SapCode\obj\Debug\netcoreapp3.1\SapCode.AssemblyInfoInputs.cache
+C:\Users\Work\source\repos\SapCode\SapCode\obj\Debug\netcoreapp3.1\SapCode.AssemblyInfo.cs
+C:\Users\Work\source\repos\SapCode\SapCode\bin\Debug\netcoreapp3.1\SapCode.exe
+C:\Users\Work\source\repos\SapCode\SapCode\bin\Debug\netcoreapp3.1\SapCode.deps.json
+C:\Users\Work\source\repos\SapCode\SapCode\bin\Debug\netcoreapp3.1\SapCode.runtimeconfig.json
+C:\Users\Work\source\repos\SapCode\SapCode\bin\Debug\netcoreapp3.1\SapCode.runtimeconfig.dev.json
+C:\Users\Work\source\repos\SapCode\SapCode\bin\Debug\netcoreapp3.1\SapCode.dll
+C:\Users\Work\source\repos\SapCode\SapCode\bin\Debug\netcoreapp3.1\SapCode.pdb
+C:\Users\Work\source\repos\SapCode\SapCode\obj\Debug\netcoreapp3.1\SapCode.dll
+C:\Users\Work\source\repos\SapCode\SapCode\obj\Debug\netcoreapp3.1\SapCode.pdb

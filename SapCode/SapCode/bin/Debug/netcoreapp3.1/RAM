@@ -1,0 +1,6 @@
+LIA 3
+STA 15
+LIA 0
+ADD 15
+OUT
+JMP 3
